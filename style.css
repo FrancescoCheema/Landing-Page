@@ -42,17 +42,35 @@ ul {
     width: 50%;
 }
 
-.hero-main {
+.content {
     display: flex;
     flex-direction: row;
-    width: 50%;
+}
+
+.content-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 h1 {
     font-size: 48px;
     color: #ffffff;
     font-weight: bolder;
-    width: 50%;
-    margin-left: 287px;
+    margin-top: -400px;
+    margin-left: 290px;
+}
+
+img {
+    height: 300px;
     margin-top: 100px;
+    margin-left: 230px;
 }
