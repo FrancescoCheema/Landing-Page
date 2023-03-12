@@ -3,3 +3,17 @@
     margin: 0;
     top: 0;
 }
+
+.first-section {
+    background-color: #1F2937;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    font-weight: bolder;
+    color: #ffffff;
+}
