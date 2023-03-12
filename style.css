@@ -65,27 +65,28 @@ h1 {
     font-size: 48px;
     color: #ffffff;
     font-weight: bolder;
-    margin-top: -400px;
-    margin-left: 230px;
+    margin-top: -120px;
+    margin-left: 180px;
 }
 
 img {
-    height: 300px;
-    margin-top: 100px;
-    margin-left: 180px;
+    margin-top: 80px;
+    margin-left: 16vh;
     margin-bottom: 0;
 }
 
 .p-link2 {
     margin-left: 290px;
+    color: gray;
+    font-size: 18px;
 }
 
 .Sign-up {
     height: 20px;
     width: 100px;
-    margin-left: -10px;
+    margin-left: -60px;
     background-color: #3882F6;
-    border:#3882F6;
+    border:1px #3882F6;
     border-radius: 7px;
     color: #ffffff;
     margin-top: 5px;
