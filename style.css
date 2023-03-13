@@ -97,6 +97,7 @@ img {
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    margin-bottom: 150px;
 }
 
 .info-header {
@@ -144,3 +145,27 @@ h2 {
     margin-left: 30px;
 }
 
+.third-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+}
+
+.quote {
+    margin-top: 150px;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: gray;
+    margin: 120px;
+    margin-bottom: 100px;
+}
+
+.author {
+    color: #1F2937;
+    font-weight: bolder;
+    display: flex;
+    justify-content: flex-end;
+}
